@@ -22,7 +22,7 @@ vless://e0216964-ffa1-4d39-82c4-0e40879a470d@185.32.6.26:443?encryption=none&flo
 vless://fafc7c16-f890-45ee-a856-02df225172dd@196.245.52.164:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qF1f5MNrOiov0tyPftS96_Osal5sWTL4keXlW32UtV8&security=reality&sid=f06b6d8a57f5fd8f&sni=898305t.es4.h1clayd.click&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%E2%80%94%20%23278
 vless://3f044365-9592-4301-8291-f2d93fcc2570@87.121.221.103:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=Su5ULcRQKF-0DJIHZeTNEnXHBpyQtizmUrcNIYhZI0E&security=reality&sid=afee962d&sni=nl004.launch.tel&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%2364
 vless://50a87e21-f0e2-4b53-a787-91adfe748f63@201.58.186.175:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=EEL-yDPBfol_fiEEM8Pd0zue7SSz5MtZlXEePVak2jc&security=reality&sni=hollandlanzerotte.xyz&type=tcp#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%20%E2%80%94%20%2318
-vless://fafc7c16-f890-45ee-a856-02df225172dd@196.245.52.164:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=qF1f5MNrOiov0tyPftS96_Osal5sWTL4keXlW32UtV8&security=reality&sid=f06b6d8a57f5fd8f&sni=898305t.es4.h1clayd.click&type=tcp#%F0%9F%87%AA%F0%9F%87%B8%20Spain%20%E2%80%94%20%23278
+vless://e9a8144e-5237-488a-afb1-9ca3d8d54c80@in002.zestapp778.com:46362?security=tls&type=tcp&sni=in002.zestapp778.com&fp=chrome#%F0%9F%87%AE%F0%9F%87%B3%20India%20%E2%80%94%20%23643
 """
 
 @app.get("/sub/{user_token}")
